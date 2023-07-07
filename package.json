@@ -1,0 +1,291 @@
+[
+  [
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 0,
+      "things_list": []
+    }
+  ],
+  [
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 3,
+      "things_list": [
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 3,
+      "things_list": [
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 3,
+      "things_list": [
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 3,
+      "things_list": [
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 3,
+      "things_list": [
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 9,
+      "things_list": [
+        {
+          "name": "food",
+          "cost": 9,
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "cost": 12,
+      "things_list": [
+        {
+          "name": "food",
+          "cost": 9,
+          "weight": 2
+        },
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 12,
+      "things_list": [
+        {
+          "name": "food",
+          "cost": 9,
+          "weight": 2
+        },
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 12,
+      "things_list": [
+        {
+          "name": "food",
+          "cost": 9,
+          "weight": 2
+        },
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 5,
+      "things_list": [
+        {
+          "name": "jacket",
+          "cost": 5,
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "cost": 5,
+      "things_list": [
+        {
+          "name": "jacket",
+          "cost": 5,
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "cost": 14,
+      "things_list": [
+        {
+          "name": "jacket",
+          "cost": 5,
+          "weight": 2
+        },
+        {
+          "name": "food",
+          "cost": 9,
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "cost": 17,
+      "things_list": [
+        {
+          "name": "jacket",
+          "cost": 5,
+          "weight": 2
+        },
+        {
+          "name": "food",
+          "cost": 9,
+          "weight": 2
+        },
+        {
+          "name": "book",
+          "cost": 3,
+          "weight": 1
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "cost": 0,
+      "things_list": []
+    },
+    {
+      "cost": 6,
+      "things_list": [
+        {
+          "name": "camera",
+          "cost": 6,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 6,
+      "things_list": [
+        {
+          "name": "camera",
+          "cost": 6,
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "cost": 11,
+      "things_list": [
+        {
+          "name": "camera",
+          "cost": 6,
+          "weight": 1
+        },
+        {
+          "name": "jacket",
+          "cost": 5,
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "cost": 11,
+      "things_list": [
+        {
+          "name": "camera",
+          "cost": 6,
+          "weight": 1
+        },
+        {
+          "name": "jacket",
+          "cost": 5,
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "cost": 20,
+      "things_list": [
+        {
+          "name": "camera",
+          "cost": 6,
+          "weight": 1
+        },
+        {
+          "name": "jacket",
+          "cost": 5,
+          "weight": 2
+        },
+        {
+          "name": "food",
+          "cost": 9,
+          "weight": 2
+        }
+      ]
+    }
+  ]
+]
+
